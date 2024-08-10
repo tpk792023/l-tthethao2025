@@ -1,3 +1,4 @@
+#EXTM3U
 
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/jednm9whk79ryox/image",🔴 10.08 - 11:15 | TAS Premier League | LAN Thurston vs South Hobart
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Flan-thurston-vs-south-hobart-luc-1115-ngay-10-08-2024
@@ -39,6 +40,8 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fyoog
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Flake-macquarie-vs-weston-workers-fc-luc-1300-ngay-10-08-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/9dn1m1gh89emoep/image",10.08 - 13:00 | Australia New South Wales Women's Premier League | Nữ New Lambton vs Nữ Maitland FC
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-new-lambton-vs-nu-maitland-fc-luc-1300-ngay-10-08-2024
+
+
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F394fd6376730e16090415dc9e86a78d4.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe3924ed4c20acaab2262ec55d93a8c13.png",🔴10/08-10:00 | Hạng 2 Mexico | Club Chivas Tapatio vs Tampico Madero | BLV: Giàng A Heo
 http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=58w6mkt66o
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc87378cb2b4fd7ec95945b863e2e75c2.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff901e9c13663b518bfc06b8b41dae393.png",🔴10/08-10:06 | VĐQG Nữ Mexico | Mazatlan FC (w) vs Juarez FC (w) | BLV: Giàng A Phang
@@ -104,71 +107,6 @@ http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=vj4ro7bxm3
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F96e93477bd9f240151e87ec723cdf945.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F957bdc50c307e2a9b526b34b3792da1a.png",10/08-18:30 | English Championship | Cardiff City vs Sunderland A.F.C | BLV: H+
 http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=8qdze11hsl
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/79.png" group-title="⚽ GGSport Live" ,DE - Sky Bundesliga 4 | 10/08-18:00 | 2. Bundesliga | Fortuna Dusseldorf - Karlsruher SC
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fde_skybundes4%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/79.png" group-title="⚽ GGSport Live" ,5 - PRT - Eleven Sport 2_Vip | 10/08-18:00 | 2. Bundesliga | Fortuna Dusseldorf - Karlsruher SC
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fpt_elevensport2%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/79.png" group-title="⚽ GGSport Live" ,DE - Sky Bundesliga 3 | 10/08-18:00 | 2. Bundesliga | SV Elversberg - FC Koln
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fde_skybundes3%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/79.png" group-title="⚽ GGSport Live" ,DE - Sky Bundesliga 2 | 10/08-18:00 | 2. Bundesliga | FC Nurnberg - FC Schalke 04
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fde_skybundes2%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/40.png" group-title="⚽ GGSport Live" ,Paramount 1 | 10/08-18:30 | Championship | Cardiff - Sunderland
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fparamount1%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/40.png" group-title="⚽ GGSport Live" ,Paramount 2 | 10/08-18:30 | Championship | Leeds - Portsmouth
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fparamount2%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/40.png" group-title="⚽ GGSport Live" ,Paramount 3 | 10/08-18:30 | Championship | Middlesbrough - Swansea
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fparamount3%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/40.png" group-title="⚽ GGSport Live" ,3 - UK - Sky Sports Football_Vip | 10/08-18:30 | Championship | Oxford United - Norwich
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fuk_ssfb%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/40.png" group-title="⚽ GGSport Live" ,3 - UK - Sky Sports Main Event_VIP | 10/08-18:30 | Championship | Oxford United - Norwich
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fuk_ssmain%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/40.png" group-title="⚽ GGSport Live" ,3 - US - CBS Sports Network | 10/08-18:30 | Championship | QPR - West Brom
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fus_cbssportsnetwork%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/Friendly-International.png" group-title="⚽ GGSport Live" ,3 - ESPN+ 00 | 10/08-19:30 | Friendly International | Rennes - Werder Bremen
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fespn0%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/Friendly-International.png" group-title="⚽ GGSport Live" ,3 - ESPN+ 01 | 10/08-20:30 | Friendly International | VfB Stuttgart - Athletic Club
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fespn1%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/Friendly-International.png" group-title="⚽ GGSport Live" ,5 - PRT - Eleven Sport 1_Vip | 10/08-20:30 | Friendly International | VfB Stuttgart - Athletic Club
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fpt_elevensport1%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/Friendly-International.png" group-title="⚽ GGSport Live" ,3 - ESPN+ 02 | 10/08-20:30 | Friendly International | Bayer Leverkusen - Real Betis
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fespn2%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/Friendly-International.png" group-title="⚽ GGSport Live" ,3 - UK - Premier Sports 1 | 10/08-20:30 | Friendly International | Bayer Leverkusen - Real Betis
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fuk_premiersports1%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/Friendly-International.png" group-title="⚽ GGSport Live" ,3 - ESPN+ 03 | 10/08-20:30 | Friendly International | SC Freiburg - Fiorentina
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fespn3%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/Friendly-International.png" group-title="⚽ GGSport Live" ,3 - ESPN+ 05 | 10/08-21:00 | Friendly International | Wolves - Rayo Vallecano
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fespn5%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/Friendly-International.png" group-title="⚽ GGSport Live" ,3 - ESPN+ 06 | 10/08-21:00 | Friendly International | West Ham - Celta Vigo
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fespn6%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/" group-title="⚽ GGSport Live" ,3 - ESPN+ 04 | 10/08-21:00 | England - FA Community Shield | Manchester United - Manchester City
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fespn4%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/" group-title="⚽ GGSport Live" ,UK - ITV 1 | 10/08-21:00 | England - FA Community Shield | Manchester United - Manchester City
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fuk_itv1%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/" group-title="⚽ GGSport Live" ,5 - PRT - Sport  TV 2_Vip | 10/08-21:00 | England - FA Community Shield | Manchester United - Manchester City
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fpt_sporttv2%2Findex.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/tournaments/94.png" group-title="⚽ GGSport Live" ,5 - PRT - Sport  TV 1_Vip | 10/08-21:30 | Primeira Liga | AVS - Nacional
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Fliveus2.score806.cc%2Fpt_sporttv1%2Findex.m3u8
 
 #EXTINF:-1 group-title="Cá Heo Live" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F394fd6376730e16090415dc9e86a78d4.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe3924ed4c20acaab2262ec55d93a8c13.png", 🔴 10/08-10:00 | Giải Cỏ: Hạng 2 Mexico | Club Chivas Tapatio vs Tampico Madero | BLV Giàng A Heo
 http://bentre5.hoangai.vn:8082/website/caheo/play.php?id=58w6mkt66o
@@ -372,6 +310,7 @@ http://bentre5.hoangai.vn:8082/website/caheo/play.php?id=t68ydv7skj
 http://bentre5.hoangai.vn:8082/website/caheo/play.php?id=epw9yh9z1c
 #EXTINF:-1 group-title="Cá Heo Live" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2dc4ef3cfd4d3533a552047139caca7c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6bb1babe89fffc1f77f25a47db40c847.png", 11/08-02:00 | Giải Cỏ: VĐQG Romania | Gloria Buzau vs FC Rapid 1923 | BLV 
 http://bentre5.hoangai.vn:8082/website/caheo/play.php?id=1fhzx40fi7
+
 #EXTINF:-1 group-title="⚽ Thập Cẩm" tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png", 🔴 10/08-09:10 | Dodgers vs Pirates
 http://bentre5.hoangai.vn:8080/thapcam/play.php?id=76nhJKP
 #EXTINF:-1 group-title="⚽ Thập Cẩm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/1200px-2024_Summer_Olympics_logo.svg.png", 🔴 10/08-13:00 | Các môn thể thao Olympic vs 
@@ -380,8 +319,7 @@ http://bentre5.hoangai.vn:8080/thapcam/play.php?id=o0zaAI4
 http://bentre5.hoangai.vn:8080/thapcam/play.php?id=96W5byM
 #EXTINF:-1 group-title="⚽ Thập Cẩm" tvg-logo="https://g7w1r.4shares.live/leagues/600px-LCK_Challengers_League_darkmode.png", 10/08-13:00 | FearX vs Kwangdong Freecs
 http://bentre5.hoangai.vn:8080/thapcam/play.php?id=vTC96su
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="http://bentre5.hoangai.fun:8080/logo/logoweb.png", Mẹo: Update để cập nhật trạng thái VeboTV
-https://hoangai.fun
+
 
 #EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/3fa888edc50d25cd0e3fe1b4ffab668a.png",10/08/2024-22:00 | Brazil (w) vs USA (w)
 http://bentre5.hoangai.vn:8080/vebo/play.php?id=gau4u85
